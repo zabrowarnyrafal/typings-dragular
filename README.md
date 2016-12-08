@@ -1,2 +1,2 @@
 # typings-dragular
-Dragular TypeScript declaration file
+[dragular](https://github.com/luckylooke/dragular) typescript declaration file
